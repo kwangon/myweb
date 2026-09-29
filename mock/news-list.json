@@ -10,11 +10,5 @@
   { "id": 5, "title": "热门新闻5", "reporter": "5", "content": "新闻的详细内容。",
    "date": "2024年8月5日" },
   { "id": 6, "title": "热门新闻6", "reporter": "6", "content": "新闻的详细内容。",
-   "date": "2024年8月6日" },
-   { "id": 7, "title": "热门新闻7", "reporter": "7", "content": "新闻的详细内容。",
-   "date": "2024年8月7日" },
-   { "id": 8, "title": "热门新闻8", "reporter": "8", "content": "新闻的详细内容。",
-   "date": "2024年8月8日" },
-   { "id": 9, "title": "热门新闻9", "reporter": "9", "content": "新闻的详细内容。",
-   "date": "2024年8月9日" }
+   "date": "2024年8月6日" }
 ]

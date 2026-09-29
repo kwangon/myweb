@@ -1,19 +1,19 @@
 [
   {
     "id": 1,
-    "img": "https://picsum.photos/300/200?random=news-hot-1",
+    "img": "https://picsum.photos/400/250?random=news-hot-1",
     "date": "8月1日新闻",
     "desc": "新闻的主要内容"
   },
   {
     "id": 2,
-    "img": "https://picsum.photos/300/200?random=news-hot-2",
+    "img": "https://picsum.photos/400/250?random=news-hot-2",
     "date": "8月2日新闻",
     "desc": "新闻的主要内容"
   },
   {
     "id": 3,
-    "img": "https://picsum.photos/300/200?random=news-hot-3",
+    "img": "https://picsum.photos/400/250?random=news-hot-3",
     "date": "8月3日新闻",
     "desc": "新闻的主要内容"
   }
